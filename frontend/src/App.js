@@ -17,7 +17,7 @@ ChartJS.register(ArcElement, Tooltip, Legend);
 
 function App() {
 
-  const API = "http://localhost:5000";
+  const API = "https://smart-task-manager-no6o.onrender.com";
 
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
