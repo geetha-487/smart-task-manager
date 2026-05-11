@@ -77,4 +77,4 @@ Deployed using Render
 
 Frontend:
 ```txt
-PASTE_YOUR_VERCEL_LINK_HERE
+https://vercel.com/geetha-487s-projects/smart-task-manager
